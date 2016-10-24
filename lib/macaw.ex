@@ -1,0 +1,2 @@
+defmodule Macaw do
+end
